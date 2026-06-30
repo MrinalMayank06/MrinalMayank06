@@ -1,6 +1,14 @@
 # Esteemed:
 Building intelligent, scalable software with Agentic AI, GenAI, LLMs, RAG, AutoGen, CrewAI, LangGraph, MCP, Azure AI, MLOps, Kubernetes, PySpark, Python, Java, MERN, React.js, FastAPI, AWS, Docker, and SaaS architectures. Focused on cloud-native systems, full-stack engineering, and production-ready AI solutions through continuous learning and hands-on development.<br>AutoGen | CrewAI | LangGraph | MCP | Azure AI Architecture | Agentic AI | GenAI | RAG | LLMs | LLM Engineering | Deep Learning | Machine Learning | Model Building | PySpark | Cloud Data Engineering | MLOps | Kubernetes | Docker | Polyglot Persistence | Python | MERN Full-Stack | React.js | FastAPI | REST APIs | SaaS Systems | Java | AWS | Git | GitHub | Jira<br>
 
+##  About Me
+
+Building intelligent, scalable software with **Agentic AI, AutoGen, CrewAI, LangGraph, MCP, RAG, LLM Engineering, Azure AI, MLOps, Kubernetes, PySpark, Python, Java, MERN, React.js, FastAPI, AWS, Docker, and SaaS architectures**.
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Agentic+AI+Developer;LLM+Engineering;Cloud+Native+Systems;Full+Stack+Developer" />
+</p>
+
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mrinal-mayank-452441252) 
@@ -13,10 +21,3 @@ Building intelligent, scalable software with Agentic AI, GenAI, LLMs, RAG, AutoG
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MrinalMayank06&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-##  About Me
-
-Building intelligent, scalable software with **Agentic AI, AutoGen, CrewAI, LangGraph, MCP, RAG, LLM Engineering, Azure AI, MLOps, Kubernetes, PySpark, Python, Java, MERN, React.js, FastAPI, AWS, Docker, and SaaS architectures**.
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Agentic+AI+Developer;LLM+Engineering;Cloud+Native+Systems;Full+Stack+Developer" />
-</p>
