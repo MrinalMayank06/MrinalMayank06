@@ -1,4 +1,4 @@
-# journey:
+#  
 Building intelligent, scalable software with Agentic AI, GenAI, LLMs, RAG, AutoGen, CrewAI, LangGraph, MCP, Azure AI, MLOps, Kubernetes, PySpark, Python, Java, MERN, React.js, FastAPI, AWS, Docker, and SaaS architectures. Focused on cloud-native systems, full-stack engineering, and production-ready AI solutions through continuous learning and hands-on development. 
 
 <p align="center">
